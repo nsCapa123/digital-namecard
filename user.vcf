@@ -2,13 +2,13 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Noel;Stone;;;
-FN: Noel  Stone 
+FN: Stone  Noel 
 ORG:Capita;
-TITLE:Designer\nCapita Intelligent Communications, Capita
+TITLE:Designer\nCapita Intelligent Communications
 EMAIL;type=INTERNET;type=WORK;type=pref:noel.stone@capita.co.uk
 TEL;type=WORK;type=VOICE:+07716225633
-item1.ADR;type=WORK;type=pref:;;5th Floor\n65 Gresham Street\, London;;;EC2V 7NQ;
+item1.ADR;type=WORK;type=pref:;;5th Floor\n65 Gresham Street\, \nLondon;;;EC2V 7NQ;
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:capita-dis.co.uk
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
